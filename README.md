@@ -67,8 +67,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sultan-Salim-Shaikh/review_scapper">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=review_scapper&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <a href="https://github.com/Sultan-Salim-Shaikh/Flipkart_Review_Scrapper">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=Flipkart_review_scrapper&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
   </p>
 

@@ -24,68 +24,60 @@
 
 <em>
   
-**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am currently working as a Data Science Intern at iNeuron.ai
-- 🖋️  I completed my B.Tech. in Mechanical Engineering from Bharati Vidyapeeth University, Pune
-- 📌 Scroll down to see my Pinned Repositories
-- 📫 Please email via sultansalimshaikh40@gmail.com to reach me;
-<br/> 
-</em>
 
-### Worked with 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshops&theme=algolia" alt="rishikeshops" /></p>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
-### GitHub Stats
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
-<p align="center">
-  <a href = "https://github.com/Sultan-Salim-Shaikh">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=Sultan-Salim-Shaikh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+## :zap: Skills
+
+   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/Sultan-Salim-Shaikh">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Sultan-Salim-Shaikh&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
-### Top repositories
-
-
-<p align="center">
-  <a href = "https://github.com/Sultan-Salim-Shaikh/Heart_Disease_Diagnostic_Analysis">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=Heart_Disease_Diagnostic_Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sultan-Salim-Shaikh/Flipkart_Review_Scrapper">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=Flipkart_review_scrapper&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
-  </p>
-
-<p align="center">
-  <a href="https://github.com/Sultan-Salim-Shaikh/KPMG_virtual_internship">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=KPMG_virtual_internship&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  </p>
-
-<p align="center">
-  <a href = "https://github.com/Sultan-Salim-Shaikh/Student-Percentage-Prediction">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=Student-Percentage-Prediction&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
+  </a>
+ </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
+ </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+  </a>
+  
+  ### Monitoring
+  
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
 </p>
-
-
 # Connect me on:
 LinkedIn: https://www.linkedin.com/in/sultan-salim-shaikh/
 

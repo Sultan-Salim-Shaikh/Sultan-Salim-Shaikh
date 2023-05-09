@@ -1,6 +1,5 @@
 ## Hi there, I'm Sultan<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
-<h3>Check out my portfolio: <a href="https://sultan-salim-shaikh.github.io/Portfolio/"</a> click here</h3>
 
 
 <p align="center">

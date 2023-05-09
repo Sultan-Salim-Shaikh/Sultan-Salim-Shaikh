@@ -1,15 +1,7 @@
-## Hi there, I'm Sultan<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
-
-
-<p align="center">
-      <a href="https://www.linkedin.com/in/sultan-salim-shaikh/">
-        <img align="center" alt="Sultan's LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/Sultan-Salim-Shaikh">
-        <img align="center" alt="Smit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-      </a>
- 	</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshops&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshops" /> </p>
+ -->
+<h1 align="center">Hi , I'm Sultan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center" >
   <samp>

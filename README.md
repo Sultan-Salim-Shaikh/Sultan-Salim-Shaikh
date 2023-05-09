@@ -10,6 +10,9 @@
   <br/>
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshops&theme=algolia" alt="rishikeshops" /></p>
+
+
 
 <em>
   

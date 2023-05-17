@@ -2,22 +2,6 @@
 <html lang="en">
 <head>
 
-</head>
-<body>
-    <div class="grid-2">
-        <div class="section-1">
-            <img src="https://github.com/mandar196/mandar196.github.io/blob/master/m1.jpeg" alt="mandar" height="300" width="200">
-            <h2>Sultan Shaikh</h2>
-            <p>Pune | Maharashtra | India</p>
-            <a href="https://www.kaggle.com/mandarkulkarnipune"><i class="fab fa-kaggle"></i></a>
-            <a href="https://www.linkedin.com/in/mandar-kulkarni196"><i class="fab fa-linkedin"></i></a>
-            <a href="https://www.github.com/mandar196"><i class="fab fa-github"></i></a>
-        </div>
-        <div class="section-2">
-            <h2>About</h2>
-            <p><i>An independent and self-motivated student with proven ability and experienced in developing web application using Flask and Data Science projects with Python,also participated in various competitions related to Data Science community</i></p>
-            <hr>
-            <h2>Experience</h2>
             <p><i>Currently working as AI/ML Intern @ Tata Motors from July 2020 to December 2020, working on 2 live projects Switch detection & Canteen plate counting in python.</i></p>
             <hr>
             <h2>Skills</h2>

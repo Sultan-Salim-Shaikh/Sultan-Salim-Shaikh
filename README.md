@@ -1,13 +1,8 @@
 ## Hi there, I'm [Sultan Shaikh] <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
-<h3>Check out my portfolio: <a href="https://kulkarnimandar96.wixsite.com/mandar"</a> click here</h3>
-
 
 <p align="center">
-      <a href="https://kaggle.com/mandarkulkarnipune">
-        <img align="center" alt="Mandar's kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://linkedin.com/in/mandar-kulkarni196">
+      <a href="https://www.linkedin.com/in/sultan-salim-shaikh/">
         <img align="center" alt="Mandar's LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/mandar196">

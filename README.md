@@ -1,66 +1,58 @@
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshops&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshops" /> </p>
- -->
-<h1 align="center">Hi , I'm Sultan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center" >
-  <samp>
-    Hey, My name is <em>Sultan Shaikh</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.  
-  </samp>
-  <br/>
-</p>
-
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
-
-## :zap: Skills
-
-   <a href="https://www.linux.org/" target="_blanfalse" />
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
-  </a>
-   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
-  </a>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-  </a>
-   </a>
-    <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
-  </a>
- </a>
-    <a href="https://pages.github.com/?(null)" target="_blank" >
-   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
-  </a>
- </a>
-  <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-  </a>
-  
-  ### Monitoring
-  
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-</p>
-# Connect me on:
-LinkedIn: https://www.linkedin.com/in/sultan-salim-shaikh/
-
-## Note: Please do not spam on the above mentioned profiles.
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Mandar kulkarni</title>
+</head>
+<body>
+    <div class="grid-2">
+        <div class="section-1">
+            <img src="https://github.com/mandar196/mandar196.github.io/blob/master/m1.jpeg" alt="mandar" height="300" width="200">
+            <h2>Sultan Shaikh</h2>
+            <p>Pune | Maharashtra | India</p>
+            <a href="https://www.kaggle.com/mandarkulkarnipune"><i class="fab fa-kaggle"></i></a>
+            <a href="https://www.linkedin.com/in/mandar-kulkarni196"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.github.com/mandar196"><i class="fab fa-github"></i></a>
+        </div>
+        <div class="section-2">
+            <h2>About</h2>
+            <p><i>An independent and self-motivated student with proven ability and experienced in developing web application using Flask and Data Science projects with Python,also participated in various competitions related to Data Science community</i></p>
+            <hr>
+            <h2>Experience</h2>
+            <p><i>Currently working as AI/ML Intern @ Tata Motors from July 2020 to December 2020, working on 2 live projects Switch detection & Canteen plate counting in python.</i></p>
+            <hr>
+            <h2>Skills</h2>
+            <p><i> Python | Core Java | R programming | SQL | Flask | Natural Language Processing | Tableau</i></p>
+            <hr>
+            <h2>Projects</h2>
+            <a href="https://github.com/mandar196/Hate_Speech_Detection-NLP"><i>Hate Speech Detection</i></a>
+	    <br>
+            <a href="https://medtestmlwebapp.herokuapp.com/"><i>MedTest</i></a>
+            <br>
+            <a href="https://github.com/mandar196/Handwritten_Digit_Classifier_CNN"><i>Handwritten Digits Recognition</i></a>
+            <br>
+            <a href="https://github.com/mandar196/Employee_Attrition-HR-Analytics"><i>Employee Attrition (HR Analytics)</i></a>
+            <br>
+            <a href="https://github.com/mandar196/Customer_Segmentation"><i>Customer Segmentation</i></a>
+            <br>
+		<hr>
+<h2>Achievements</h2>
+<p><i>Secured Rank-20/1520 (Top-2%) in Kaggle competition for the project "NLP with Disaster Tweets</i></p>
+<p><i>Participated in Analytics Vidhya-Hackathon for “Loan Prediction Challenge” competition and secured Rank- 42/6805</i></p>
+<p><i>Participated in “Spot the face mask challenge” in Zindi Weekendz Hackathon and secured Rank-10</i></p>
+<p><i>Executed end to end multiple data science projects</i></p>
+<p><i>Published blog on “Recruitment Prediction System”.Link: https://rb.gy/3bwnwq</i></p>
+<p><i>Published python package in py2py on "Recruitment prediction system".Link: https://pypi.org/project/py2pyrecruitment2</i></p>
+<p><i>Involved in designing the real time object detection using Tensorﬂow for various internal live projects within the company.</i></p>
+<p><i>Worked as Android Developer in DSC (Developer Student Club) in VIT,Pune, from Sept-2019 to Feb-2020 </i></p>
+<p><i>Posess the quality of a good story teller</i></p>
+<hr>
+            <h2>Contact</h2>
+            <p><i>kulkarnimandar96@gmail.com</i></p>
+	    <p><i>Mobile:+919145296745</i></p>
+            <hr>
+            <h2>Please do not spam on above mentioned profiles!</h2>
